@@ -1,0 +1,134 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Smart Portfolio Website",
+      "description": "A modern, interactive portfolio website with particle animations, theme switching, and GitHub API integration.",
+      "image": "assets/images/projects/portfolio.jpg",
+      "category": "web",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Canvas API"],
+      "liveUrl": "https://yourusername.github.io/smart-portfolio",
+      "githubUrl": "https://github.com/yourusername/smart-portfolio",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Weather Dashboard",
+      "description": "Real-time weather dashboard with location search, 7-day forecast, and interactive maps.",
+      "image": "assets/images/projects/weather.jpg",
+      "category": "web",
+      "technologies": ["JavaScript", "API Integration", "CSS Grid"],
+      "liveUrl": "https://yourusername.github.io/weather-app",
+      "githubUrl": "https://github.com/yourusername/weather-app",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Machine Learning Visualizer",
+      "description": "Interactive ML algorithm visualizer demonstrating neural networks and decision boundaries.",
+      "image": "assets/images/projects/ml-visualizer.jpg",
+      "category": "ml",
+      "technologies": ["Python", "TensorFlow.js", "D3.js"],
+      "liveUrl": "https://yourusername.github.io/ml-visualizer",
+      "githubUrl": "https://github.com/yourusername/ml-visualizer",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Task Management System",
+      "description": "Full-featured task manager with drag-and-drop, categories, and productivity analytics.",
+      "image": "assets/images/projects/task-manager.jpg",
+      "category": "web",
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "liveUrl": "https://yourusername.github.io/task-manager",
+      "githubUrl": "https://github.com/yourusername/task-manager",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "AI Chat Assistant",
+      "description": "Intelligent chatbot with natural language processing capabilities and conversation memory.",
+      "image": "assets/images/projects/chatbot.jpg",
+      "category": "ml",
+      "technologies": ["Python", "NLP", "Flask"],
+      "liveUrl": "https://yourusername.github.io/ai-chat",
+      "githubUrl": "https://github.com/yourusername/ai-chat",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "AR Campus Navigator",
+      "description": "Augmented reality app for campus navigation and information overlay.",
+      "image": "assets/images/projects/ar-navigator.jpg",
+      "category": "other",
+      "technologies": ["AR.js", "Three.js", "Geolocation API"],
+      "liveUrl": "https://yourusername.github.io/ar-navigator",
+      "githubUrl": "https://github.com/yourusername/ar-navigator",
+      "featured": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2024",
+      "title": "Senior Year Engineering",
+      "description": "Final year projects and internship applications",
+      "icon": "graduation-cap"
+    },
+    {
+      "year": "2023",
+      "title": "Junior Year Breakthrough",
+      "description": "Won hackathon and started freelancing",
+      "icon": "trophy"
+    },
+    {
+      "year": "2022",
+      "title": "Web Development Journey",
+      "description": "Learned full-stack development and built first applications",
+      "icon": "code"
+    },
+    {
+      "year": "2021",
+      "title": "Started Engineering",
+      "description": "Began B.Tech in Computer Science",
+      "icon": "university"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "icon": "fa-laptop-code",
+      "level": 90,
+      "technologies": ["HTML5", "CSS3", "JavaScript", "React", "Vue.js"]
+    },
+    {
+      "name": "Backend Development",
+      "icon": "fa-server",
+      "level": 75,
+      "technologies": ["Node.js", "Python", "Django", "SQL"]
+    },
+    {
+      "name": "Mobile Development",
+      "icon": "fa-mobile-alt",
+      "level": 60,
+      "technologies": ["React Native", "Flutter"]
+    },
+    {
+      "name": "DevOps & Tools",
+      "icon": "fa-tools",
+      "level": 70,
+      "technologies": ["Git", "Docker", "AWS", "Linux"]
+    },
+    {
+      "name": "UI/UX Design",
+      "icon": "fa-palette",
+      "level": 65,
+      "technologies": ["Figma", "Adobe XD", "Prototyping"]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-chart-bar",
+      "level": 55,
+      "technologies": ["Python", "TensorFlow", "Data Analysis"]
+    }
+  ]
+}
